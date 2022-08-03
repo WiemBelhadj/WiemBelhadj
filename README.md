@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning Machine Learning / Deep Learning algorithms , Frontend and Backend technologies
+- 🌱 I’m currently learning Data Science / Machine Learning / Deep Learning algorithms technologies
 - 👯 I’m looking to collaborate on new projets 
 - 📫 How to reach me: wiem.belhadj@enis.tn
 
